@@ -1,0 +1,9 @@
+This is homework 3 (including extra credit) for Interative Computer Graphics, by Shangqi Wu.
+
+This program is developed with the virtual machine provided by this course. 
+
+To compile this program, please use the makefile and type "make" in command line. Executable file will be named "hw3". Command "make clean" can remove the executable file.
+
+To run this program, please type "./hw3" in command line. This program sucessfully fulfills all requirements in the homework instructions. It creates a main window with squares described, a subwindow with ellipse, and another window containing a triangle and a circle. You can choose to start and stop animation, also change colors, using menus and keyboards. To test these functions, please just do the same as homework description. 
+
+Also, extra credit part is implemented, when you left click your mouse, a new breathing circle with random color is created. 
